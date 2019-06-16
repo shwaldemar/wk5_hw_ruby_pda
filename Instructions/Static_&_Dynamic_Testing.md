@@ -7,7 +7,8 @@
 
   Carry out static testing on `testing_task_1.md`.  
 
-  Read through the code. Comment any errors you can see but do not correct them in this file.
+  1. Read through the code.
+  2. Comment any errors you can see but do not correct them in this file.
 
   (Remember you can use `#` to comment in Ruby code.)
 
@@ -16,7 +17,12 @@
 
   Carry out dynamic testing on `card_game.rb`.
 
-  Read through the code. Create a spec file and write a test for each function. Screenshot the test code and the tests failing Correct the errors you spotted in task A and screenshot the tests passing. Save screenshots in the same folder as the code.
+  1. Read through the code.
+  2. Create a spec file and write a test for each function.
+  3. Screenshot the test code and the tests failing.
+  4. Correct the errors you spotted in task A.
+  5. Screenshot the tests passing.
+  6. Save screenshots in the same folder as the code.
 
 ### Submitting
 
